@@ -90,7 +90,7 @@ Make sure your power supply is sufficient for the DC motor, and include a **flyb
 
 ---
 
-## 📸 Example Output
+## 📸 Circuit Diagram
 
 <img width="1182" height="680" alt="Screenshot 2025-07-16 130006" src="https://github.com/user-attachments/assets/7daa8fbd-3a65-499a-9b8c-f510fa1b6b7f" />
 
